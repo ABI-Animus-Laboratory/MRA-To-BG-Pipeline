@@ -49,7 +49,7 @@ Please read [ABOUT_THIS_TEMPLATE](ABOUT_THIS_TEMPLATE.md), and delete this secti
 
 ### Pre-requisites 
 - Python versions:
-   - 3.9
+   - 3.7
 ###  Installing via PyPI
 
 Here is the [link](https://pypi.org/project/{PACKAGE_NAME}/) to our project on PyPI
