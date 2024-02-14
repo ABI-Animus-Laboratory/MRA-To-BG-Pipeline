@@ -1,0 +1,21 @@
+{
+	"tags": ["sub-001",
+	         "sub-002"],
+
+	"bids_root_path":  "",
+
+	"segmentation_model_path": "",
+	"segmentation_model_threshold": "",
+	"image_to_segment_suffix": "MRA",
+	"gpu_selection": "0",
+
+	"ExploreASL_subj_stem": "_1",
+	"QVT_config_folder": "Cutoff_0.3",
+
+	"segmentation_verbose": "1",
+	"centerlines_verbose": "1",
+	"create_network_verbose": "1",
+	"node_labelling_verbose": "1",
+	"bg_verbose": "1"
+
+}
