@@ -1,6 +1,6 @@
-# {YOUR-PROJECT-NAME}
+# {MRA-To_BG_Pipeline}
 
-{SHORT PROJECT DESCRIPTION}
+{Given an MRA image of the brain, we perform vessel segmentation, centerline extraction, graph conversion, node labelling, and then Bond Graph generation.}
 
 ![Python 3](https://img.shields.io/badge/Python->=3.9-blue)
 [![Contributors][contributors-shield]][contributors-url]
@@ -19,7 +19,7 @@
 [issues-shield]: https://img.shields.io/github/issues/{GITHUB_ACCOUNT}/{REPO_NAME}.svg?style=flat-square
 [issues-url]: https://github.com/{GITHUB_ACCOUNT}/{REPO_NAME}/issues
 [issues-closed-shield]: https://img.shields.io/github/issues-closed/{GITHUB_ACCOUNT}/{REPO_NAME}.svg
-[issues-closed-url]: https://GitHub.com/SPARC-FAIR-Codeathon/sparc-me/issues?q=is%3Aissue+is%3Aclosed
+[issues-closed-url]: https://github.com/ABI-Animus-Laboratory/MRA-To-BG-Pipeline/sparc-me/issues?q=is%3Aissue+is%3Aclosed
 [license-shield]: https://img.shields.io/github/license/{GITHUB_ACCOUNT}/{REPO_NAME}.svg?style=flat-square
 [license-url]: https://github.com/{GITHUB_ACCOUNT}/{REPO_NAME}/blob/master/LICENSE
 [code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
